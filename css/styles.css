@@ -1,17 +1,30 @@
-.jumbotron{
-  background-image: url(../img/cleaning.jpg);
-  background-size: cover;
-  height: 450px;
-}
-.jumbotron{
-  background-image: url(../img/download.jpeg)
-  background-size: cover;
-  height: 450px;
-}
 
+p{
+  color: purple;
+  font-weight: bolder;
+}
+.jumbotron{
+  text-decoration: underline;
+  font-weight: bolder;
+  font-size-adjust: 60px;
+  color: white;
+  text-align: center;
+  margin: auto;
+  padding: inherit;
+  background-color: indigo;
+}
 .buttons{
+  color: #7e02ea;
+  margin: auto;
+  padding: inherit;
+}
+h1{
+  color: #0c1ff2;
+  text-decoration: underline;
+  padding:10px;
+  margin: 10px;
   text-align: center;
 }
-p{
-  text-align: center;
+.paragraph-showing{
+display:none;
 }
