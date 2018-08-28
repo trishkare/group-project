@@ -1,0 +1,17 @@
+.jumbotron{
+  background-image: url(../img/cleaning.jpg);
+  background-size: cover;
+  height: 450px;
+}
+.jumbotron{
+  background-image: url(../img/download.jpeg)
+  background-size: cover;
+  height: 450px;
+}
+
+.buttons{
+  text-align: center;
+}
+p{
+  text-align: center;
+}
