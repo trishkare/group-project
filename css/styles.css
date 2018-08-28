@@ -1,7 +1,6 @@
 
 p{
   color: purple;
-  font-weight: bolder;
 }
 .jumbotron{
   text-decoration: underline;
@@ -27,4 +26,22 @@ h1{
 }
 .paragraph-showing{
 display:none;
+}
+p1{
+  color: #ff6699;
+}
+.row{
+  float: right;
+}
+.rosy{
+  margin-right: 200px;
+  margin-left: 60px;
+  margin-top: 40px;
+  margin-bottom: 50px;
+  padding: 30px;
+  float: left;
+  border: 30px solid black;
+}
+body{
+  background-color: #f304f7;
 }
