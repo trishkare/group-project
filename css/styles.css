@@ -1,17 +1,64 @@
-.jumbotron{
-  background-image: url(../img/cleaning.jpg);
-  background-size: cover;
-  height: 450px;
-}
-.jumbotron{
-  background-image: url(../img/download.jpeg)
-  background-size: cover;
-  height: 450px;
-}
 
+p{
+  color: purple;
+}
+.jumbotron{
+  text-decoration: underline;
+  font-weight: bolder;
+  font-size-adjust: 60px;
+  color: white;
+  text-align: center;
+  margin: auto;
+  padding: inherit;
+  background-color: indigo;
+}
 .buttons{
+  margin: auto;
+  padding: inherit;
+  float: right;
+}
+h1{
+  color: #0c1ff2;
+  text-decoration: underline;
+  padding:10px;
+  margin: 10px;
   text-align: center;
 }
-p{
+p1{
+  color: #ff6699;
+}
+.row{
+  float: right;
+  padding: 20px;
+  margin: 30px;
+}
+.rosy{
+  margin-right: 200px;
+  margin-left: 60px;
+  margin-top: 40px;
+  margin-bottom: 50px;
+  padding: 30px;
+  float: left;
+  border: 30px solid black;
+}
+body{
+  background-color: #f304f7;
+}
+.qr{
+  color: #black;
   text-align: center;
+  text-size:large;
+}
+.container{
+  padding: 50px;
+  margin: 40px;
+}
+li{
+  float:left;
+  padding: 10px;
+  margin:5px;
+  border: 10px solid blue;
+}
+img{
+  float:right;
 }
