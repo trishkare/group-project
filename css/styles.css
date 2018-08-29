@@ -1,17 +1,65 @@
+h1{
+  color: #090748;
+  font-size: 40px;
+  font-family: sans-serif;
+  font-weight: bolder;
+  font-style: oblique;
+}
+.navbar{
+  position: sticky;
+}
+/* .nav{
+  font-size: 15px;
+  background-color: white;
+} */
 .jumbotron{
-  background-image: url(../img/cleaning.jpg);
-  background-size: cover;
-  height: 450px;
+  background-color:  #b7d7e8;
 }
-.jumbotron{
-  background-image: url(../img/download.jpeg)
-  background-size: cover;
-  height: 450px;
-}
-
-.buttons{
+h2{
+  color: #123E76;
+  font-size: 30px;
   text-align: center;
+  font-family: fantasy;
 }
-p{
+h3{
+  color: #16427C;
+  font-size: 45px;
+  font-weight: bolder;
   text-align: center;
+  font-family: fantasy;
+}
+h4{
+  color: #123E76;
+  font-size: 30px;
+  font-weight: bold;
+  text-align: center;
+  font-style: italic;
+}
+h5{
+  text-align: center;
+  font-size: 30px;
+  font-family:fantasy;
+  color:  #123E76;
+}
+h6{
+  text-align: center;
+  font-size: 30px;
+  font-family:fantasy;
+  color:  #123E76;
+}
+h7,h9,h11{
+  color: #123E76;
+  font-size: 27px;
+  font-family: fantasy;
+}
+h13,h14{
+  font-size: 25px;
+  color: #271E3C;
+  font-family: cursive;
+}
+footer{
+  background-color:#7CAFF3
+}
+body{
+  background-color:#E5E3FE;
 }
