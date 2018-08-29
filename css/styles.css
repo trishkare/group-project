@@ -13,9 +13,9 @@ p{
   background-color: indigo;
 }
 .buttons{
-  color: #7e02ea;
   margin: auto;
   padding: inherit;
+  float: right;
 }
 h1{
   color: #0c1ff2;
@@ -52,4 +52,13 @@ body{
 .container{
   padding: 50px;
   margin: 40px;
+}
+li{
+  float:left;
+  padding: 10px;
+  margin:5px;
+  border: 10px solid blue;
+}
+img{
+  float:right;
 }
